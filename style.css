@@ -1,0 +1,131 @@
+body{
+    background-color: white;
+}
+
+.cont{
+    margin-top: 20px;
+}
+.navbar{
+    background-color: #e7e7e5;
+    
+    padding: 50px;
+    
+}
+.navbar-register{
+    text-decoration: none;
+    font-size: 40px;
+    color: black;
+    padding-left: 150px;
+    
+}
+.logo{
+    width: 17px;
+    
+    
+}
+.navbar .h1{
+    font-size: 20px;
+    padding-right: 100px;
+    
+}
+.color-me{
+    color: rgb(238, 123, 123);
+}
+.half-width{
+    width: 18%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 2%;
+
+}
+.facebook{
+    color: white;
+    background-color: #4267B2;
+    border-radius: 20px;
+    padding: 12px 28px;
+    text-align: center;
+    border: none;
+    font-size:20px
+    
+}
+.Google{
+    color: white;
+    background-color: #d85b5b;
+    border-radius: 20px;
+    padding: 12px 2px;
+    text-align: center;
+    border: none;
+    font-size:20px
+    
+}
+.Linkedin{
+    color: white;
+    background-color: #0e76a8;
+    border-radius: 20px;
+    padding: 12px 2px;
+    text-align: center;
+    border: none;
+    font-size:20px
+    
+}
+.button{
+    margin: 10px;
+}
+
+.half-width img{
+    width: 5%;
+}
+.logo-tab{
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.form-control{
+    margin-top: 8%;
+    width: 300%;
+}
+.form-tab{
+    margin-top: 8%;
+}
+.Number{
+    margin-top: 8%;
+}
+.button-form{
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    padding: 12px 28px;
+    text-align: center;
+    border: none;
+    margin-top: 5%;
+    
+}
+.button-form:hover{
+    color: rgb(243, 124, 124);
+    background-color: black;
+}
+.form-select{
+    width: 20%;
+    margin-left: 5px;
+}
+.form-select-tab{
+    margin-top: 40%;
+    background-color: rgb(243, 166, 166);
+    padding: 100px;
+    
+}
+
+p{
+    color: white;
+    font-size: 15px;
+    
+}
+.button-form-last{
+    margin: 10px;
+}
+.date-blood{
+    margin: 20px;
+    color: white;
+}
+.last-form-name{
+    padding: 20px;
+}
